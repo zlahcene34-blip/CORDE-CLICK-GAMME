@@ -1,4 +1,4 @@
-import arcade
+main.py
 
 # --- Configuration ---
 SCREEN_WIDTH = 800
