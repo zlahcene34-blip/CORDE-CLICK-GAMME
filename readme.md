@@ -98,7 +98,8 @@ cd duel-de-clics
 
 ## 📸 Captures d'écran
 
-> *À ajouter : une capture de l'écran d'accueil et une capture en cours de partie.*
+><img width="1876" height="952" alt="image" src="https://github.com/user-attachments/assets/92b1a887-95d5-47ce-a1be-88cad97faad4" />
+
 
 ---
 
