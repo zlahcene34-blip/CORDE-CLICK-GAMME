@@ -80,7 +80,7 @@ cd duel-de-clics
 
 | Action | Joueur 1 (Gauche) | Joueur 2 (Droite) |
 |---|---|---|
-| Tirer la corde | **A** | **P** |
+| Tirer la corde | **a** | **P** |
 | Démarrer / Rejouer | **Entrée** | **Entrée** |
 
 > Sur mobile ou tablette, les boutons à l'écran sont également cliquables.
